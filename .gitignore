@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Angular
+/dist/
+/e2e/*.db
+/e2e/*.sqlite
+
+# IDE
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Custom
+custom-file-to-ignore.txt
